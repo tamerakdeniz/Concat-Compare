@@ -1,0 +1,17 @@
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\bin\Debug\net6.0-windows\ConcatCompareOrnek.exe
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\bin\Debug\net6.0-windows\ConcatCompareOrnek.deps.json
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\bin\Debug\net6.0-windows\ConcatCompareOrnek.runtimeconfig.json
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\bin\Debug\net6.0-windows\ConcatCompareOrnek.dll
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\bin\Debug\net6.0-windows\ConcatCompareOrnek.pdb
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\obj\Debug\net6.0-windows\ConcatCompareOrnek.csproj.AssemblyReference.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\obj\Debug\net6.0-windows\ConcatCompareOrnek.Form1.resources
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\obj\Debug\net6.0-windows\ConcatCompareOrnek.csproj.GenerateResource.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\obj\Debug\net6.0-windows\ConcatCompareOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\obj\Debug\net6.0-windows\ConcatCompareOrnek.AssemblyInfoInputs.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\obj\Debug\net6.0-windows\ConcatCompareOrnek.AssemblyInfo.cs
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\obj\Debug\net6.0-windows\ConcatCompareOrnek.csproj.CoreCompileInputs.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\obj\Debug\net6.0-windows\ConcatCompareOrnek.dll
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\obj\Debug\net6.0-windows\refint\ConcatCompareOrnek.dll
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\obj\Debug\net6.0-windows\ConcatCompareOrnek.pdb
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\obj\Debug\net6.0-windows\ConcatCompareOrnek.genruntimeconfig.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ConcatCompareOrnek\obj\Debug\net6.0-windows\ref\ConcatCompareOrnek.dll
