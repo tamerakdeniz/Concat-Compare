@@ -4,7 +4,7 @@ Bu, C# programlama dili kullanılarak geliştirilen bir Concat-Compare uygulamas
 
 ## Nasıl Çalışır
 
-Uygulama, kullanıcıdan iki ayrı dize girmesini bekler. Ardından, bu dizeleri birleştirir ve birleştirilmiş diziyi orijinal dizeyle karşılaştırır. Eğer birleştirilmiş dize orijinal dizeye eşitse, kullanıcıya "Dizeler eşittir!" mesajını gösterir. Aksi halde, "Dizeler eşit değildir!" mesajını gösterir.
+Uygulama, kullanıcıdan iki ayrı dize girmesini bekler. Ardından, bu dizeleri birleştirir ve birleştirilmiş diziyi orijinal dizeyle karşılaştırır. Eğer birleştirilmiş dize orijinal dizeye eşitse, kullanıcıya "0" mesajını gösterir. Aksi halde, "1" mesajını gösterir.
 
 ## Kurulum
 
